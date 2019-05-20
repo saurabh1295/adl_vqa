@@ -4,11 +4,11 @@ Submission for Applied Deep Learning VQA
 Implemented by: Ritvik Shrivastava(rs3868), Saurabh Sharma(ss5569), Shivali Goel(sg3629)
 
 
-Video Link: https://www.youtube.com/channel/UCuH8FdXgmLq3ffl8bWDRy6A
+Video Link: https://www.youtube.com/watch?v=srQ-C_Sa8PU
 
 Github Link: https://github.com/saurabh1295/adl_vqa
 
-For an end to end tutorial refer to the notebook: 
+For an end to end tutorial refer to the notebook: VQA_ADL.ipynb
 
 To  run:
 
