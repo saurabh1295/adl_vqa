@@ -14,17 +14,17 @@ To  run:
 
 Download the dataset:
 
-Annotations: http://images.cocodataset.org/annotations/annotations_trainval2014.zip
+wget http://images.cocodataset.org/annotations/annotations_trainval2014.zip
 
-Images: http://images.cocodataset.org/zips/train2014.zip - Unzip to ~/train2014
+wget http://images.cocodataset.org/zips/train2014.zip - Unzip to ~/train2014
 
-!wget https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Train_mscoco.zip
+wget https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Train_mscoco.zip
 
-! unzip -a v2_Questions_Train_mscoco.zip
+unzip -a v2_Questions_Train_mscoco.zip
 
-!wget https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
+wget https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 
-! unzip -a v2_Annotations_Train_mscoco.zip
+unzip -a v2_Annotations_Train_mscoco.zip
 
 The models are defined in the *model.py files.
 
