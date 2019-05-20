@@ -31,11 +31,9 @@ The models are defined in the *model.py files.
 
 To run the training script:
 
-```train.py pa all 10 dir/to/save/model```
+```train.py model_Type amount_of_data num_epochs dir/to/save/model```
 
-pa - parallel coattention
-
-aa - alternating coattention
+model_type: pa - parallel coattention, aa - alternating coattention, iwi- IWIModel
 
 
 The model is saved every 10 epochs.
