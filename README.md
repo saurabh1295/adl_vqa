@@ -14,7 +14,7 @@ To  run:
 
 Download the dataset:
 
-wget http://images.cocodataset.org/annotations/annotations_trainval2014.zip
+```wget http://images.cocodataset.org/annotations/annotations_trainval2014.zip
 
 wget http://images.cocodataset.org/zips/train2014.zip - Unzip to ~/train2014
 
@@ -25,12 +25,13 @@ unzip -a v2_Questions_Train_mscoco.zip
 wget https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 
 unzip -a v2_Annotations_Train_mscoco.zip
+```
 
 The models are defined in the *model.py files.
 
 To run the training script:
 
-train.py pa all 10 dir/to/save/model
+```train.py pa all 10 dir/to/save/model```
 
 pa - parallel coattention
 
