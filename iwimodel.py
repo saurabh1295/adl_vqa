@@ -1,4 +1,6 @@
 '''
+Author: Saurabh Sharma
+
 Image with Words with Image.
 This model uses the image twice. First it treats the image as a word in the question vector. 
 But this will cause the image to be weighted less as it is treated ~ 1/20th of the question vector

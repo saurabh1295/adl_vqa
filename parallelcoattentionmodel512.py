@@ -1,3 +1,6 @@
+"""
+Author: Shivali Goel
+"""
 import tensorflow as tf
 
 from tensorflow.keras.layers import Dense, Flatten, Dropout, Embedding, LSTM, Activation,ZeroPadding1D,Conv1D
