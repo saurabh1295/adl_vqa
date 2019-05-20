@@ -1,6 +1,15 @@
 # Visual Question Answering
 Submission for Applied Deep Learning VQA
 
+Implemented by: Ritvik Shrivastava(rs3868), Saurabh Sharma(ss5569), Shivali Goel(sg3629)
+
+
+Video Link: https://www.youtube.com/channel/UCuH8FdXgmLq3ffl8bWDRy6A
+
+Github Link: https://github.com/saurabh1295/adl_vqa
+
+For an end to end tutorial refer to the notebook: 
+
 To  run:
 
 Download the dataset:
@@ -45,4 +54,4 @@ We will add an image demo soon!
 Ref. paper: https://arxiv.org/abs/1606.00061
 
 
-Implemented by: Ritvik Shrivastava, Saurabh Sharma, Shivali Goel
+
